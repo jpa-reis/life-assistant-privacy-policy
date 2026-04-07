@@ -3,7 +3,7 @@
 **Last Updated:** 07 April 2026  
 **Policy Version:** 2026-04-07
 
-## 1. Who We Are (Data Controller)
+## 1. Who We Are
 
 My Life Assistant is provided by **João Reis** ("Developer", "we", "us").  
 **Contact email:** hello.lifeassistant@gmail.com  
@@ -25,8 +25,8 @@ We may collect the following categories of personal data:
 
 - **Account and identity data:** name, username, email address.
 - **Profile data:** profile photo, bio, and related profile content.
-- **User content:** Any and all text, files, notes, or other data you voluntarily input, upload, or store within the App.
-- **Technical and security logs:** limited technical information (IP addresses, device identifiers, crash data) needed to operate, secure, debug, and maintain the App.
+- **User content:** text, notes, files, and other data you voluntarily input, upload, or store within the App.
+- **Technical and security data:** limited technical information needed to operate, secure, debug, and maintain the App.
 
 We do not intentionally collect special category data unless you choose to provide it in user content.
 
@@ -85,9 +85,9 @@ We keep personal data only as long as necessary for the purposes above:
 
 - **Account/profile/content data:** retained while your account is active.
 - **Deletion requests:** account data is deleted or anonymized within a reasonable period after verification, unless legal obligations require retention.
-- **Technical/security logs:** retained for limited periods required for security, debugging, and reliability.
+- **Technical/security records:** retained for limited periods required for security, debugging, and reliability.
 
-Some minimal records may be retained where legally required or necessary for dispute handling/security.
+Some minimal records may be retained where legally required or necessary for dispute handling or security.
 
 ---
 
@@ -118,10 +118,10 @@ You also have the right to lodge a complaint with your local supervisory authori
 
 ## 11. Account Deletion and Data Requests
 
-* **In-App Deletion:** You can initiate the permanent deletion of your account and all associated data (including profile info and user content) directly through the **Profile Settings** in the App. 
-* **Verification:** To prevent accidental or unauthorized deletion, we may require you to authenticate your identity (e.g., re-entering your password) before processing the request.
-* **Retention:** Once verified, deletion is processed promptly. However, we may retain certain limited information (such as transaction records or security logs) where we are legally required to do so or have a compelling legitimate interest (e.g., fraud prevention).
-* **Data Export:** You have the right to request a copy of your personal data in a structured, machine-readable format (e.g., JSON). You can initiate this request directly through the **Privacy Controls** section in the App or by emailing **hello.lifeassistant@gmail.com**. Upon verification of your identity, we will provide the data export via email.
+- **In-App Deletion:** You can initiate the permanent deletion of your account and associated data through **Profile Settings** in the App.
+- **Verification:** To prevent accidental or unauthorized actions, we may require identity verification before processing sensitive requests.
+- **Retention Exceptions:** We may retain limited information where legally required or where we have a compelling legitimate interest (for example, fraud prevention or security).
+- **Data Access / Export Requests:** During this pre-alpha phase, data access and portability/export requests are handled by email at **hello.lifeassistant@gmail.com**. In-app export tooling may be introduced in a future release.
 
 ---
 
