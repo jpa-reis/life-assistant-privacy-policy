@@ -1,26 +1,149 @@
-#THIS IS A TEMPLATE FOR A PRIVACY POLICY AND IS NOT FINAL
+# Privacy Policy for My Life Assistant
 
-# Privacy Policy for [App Name]
+**Last Updated:** 07 April 2026  
+**Policy Version:** 2026-04-07
 
-**Last Updated:** April 2026
+## 1. Who We Are (Data Controller)
 
-## 1. Introduction
-This app is currently in a **Pre-Alpha** state. This policy explains how [Your Name] ("the Developer") handles your data.
+My Life Assistant is provided by **João Reis** ("Developer", "we", "us").  
+**Contact email:** hello.lifeassistant@gmail.com  
+**Location:** Portugal
 
-## 2. Data We Collect
-* **User-Provided Info:** Name, Username, Email.
-* **Technical Logs:** We use Google Firebase/Analytics to collect anonymized crash reports and device identifiers to fix bugs.
+If you have questions about this Privacy Policy or want to exercise your rights, contact us at the email above.
 
-## 3. Data Encryption & Security
-Data is encrypted in transit. However, as this is a pre-alpha build, users are advised not to use sensitive passwords.
+---
 
-## 4. Your Rights (GDPR)
-As a user in the EU, you have the right to access, rectify, or delete your data. 
+## 2. Scope
 
-## 5. Account Deletion
-To delete your account and all associated data, please contact the developer at: **[Your-Email@gmail.com]**.
+This Privacy Policy explains how we collect, use, store, and protect personal data when you use My Life Assistant (the "App"), currently in **Pre-Alpha**.
 
-## 6. Contact
-[Your Name]
-Portugal
-[Your Email]
+---
+
+## 3. Data We Collect
+
+We may collect the following categories of personal data:
+
+- **Account and identity data:** name, username, email address.
+- **Profile data:** profile photo, bio, and related profile content.
+- **User content:** Any and all text, files, notes, or other data you voluntarily input, upload, or store within the App.
+- **Technical and security logs:** limited technical information (IP addresses, device identifiers, crash data) needed to operate, secure, debug, and maintain the App.
+
+We do not intentionally collect special category data unless you choose to provide it in user content.
+
+---
+
+## 4. Why We Process Your Data (Purposes and Legal Bases)
+
+We process personal data for the following purposes:
+
+- **To provide and operate the App** (account creation, login, profile display, and core features).  
+  **Legal basis:** performance of a contract (GDPR Art. 6(1)(b)).
+
+- **To maintain security and prevent abuse** (security monitoring and protection of systems and users).  
+  **Legal basis:** legitimate interests (GDPR Art. 6(1)(f)).
+
+- **To debug issues and maintain reliability** (technical troubleshooting and service continuity).  
+  **Legal basis:** legitimate interests (GDPR Art. 6(1)(f)).
+
+- **To comply with legal obligations** where applicable.  
+  **Legal basis:** legal obligation (GDPR Art. 6(1)(c)).
+
+---
+
+## 5. Analytics
+
+My Life Assistant **does not currently use usage analytics** for user behavior tracking.
+
+If analytics is introduced in the future, we will update this Privacy Policy and, where required by law, request consent before collecting non-essential analytics data.
+
+---
+
+## 6. Data Sharing and Processors
+
+We do not sell your personal data.
+
+We use service providers that act as processors to operate the App, including:
+
+- **Supabase** (including PostgreSQL database hosting and related backend infrastructure).
+
+Where processors are used, they process personal data on our behalf under contractual safeguards and only as needed to provide the service.
+
+Supabase privacy information: [https://supabase.com/privacy](https://supabase.com/privacy)
+
+---
+
+## 7. International Data Transfers
+
+Your data may be processed outside the EEA/UK depending on infrastructure configuration and service providers.  
+Where this occurs, we rely on appropriate safeguards (such as Standard Contractual Clauses) and additional measures where needed.
+
+---
+
+## 8. Data Retention
+
+We keep personal data only as long as necessary for the purposes above:
+
+- **Account/profile/content data:** retained while your account is active.
+- **Deletion requests:** account data is deleted or anonymized within a reasonable period after verification, unless legal obligations require retention.
+- **Technical/security logs:** retained for limited periods required for security, debugging, and reliability.
+
+Some minimal records may be retained where legally required or necessary for dispute handling/security.
+
+---
+
+## 9. Security
+
+We implement reasonable technical and organizational safeguards, including encryption in transit and access controls.  
+No system is 100% secure, particularly during pre-alpha operation. Please use strong, unique passwords and avoid sharing unnecessary sensitive information.
+
+---
+
+## 10. Your GDPR Rights
+
+If you are in the EEA/UK, you may have rights to:
+
+- Access your personal data.
+- Rectify inaccurate data.
+- Erase your data.
+- Restrict processing.
+- Object to processing based on legitimate interests.
+- Data portability.
+- Withdraw consent at any time where processing relies on consent.
+
+To exercise rights, contact **hello.lifeassistant@gmail.com**.  
+We may request identity verification before processing requests.  
+You also have the right to lodge a complaint with your local supervisory authority.
+
+---
+
+## 11. Account Deletion and Data Requests
+
+* **In-App Deletion:** You can initiate the permanent deletion of your account and all associated data (including profile info and user content) directly through the **Profile Settings** in the App. 
+* **Verification:** To prevent accidental or unauthorized deletion, we may require you to authenticate your identity (e.g., re-entering your password) before processing the request.
+* **Retention:** Once verified, deletion is processed promptly. However, we may retain certain limited information (such as transaction records or security logs) where we are legally required to do so or have a compelling legitimate interest (e.g., fraud prevention).
+* **Data Export:** You have the right to request a copy of your personal data in a structured, machine-readable format (e.g., JSON). You can initiate this request directly through the **Privacy Controls** section in the App or by emailing **hello.lifeassistant@gmail.com**. Upon verification of your identity, we will provide the data export via email.
+
+---
+
+## 12. Children and Minors
+
+My Life Assistant is for a general audience.  
+If you are below the age at which you can lawfully consent to data processing in your country, you must have permission from a parent or legal guardian.
+
+We do not knowingly process children’s data in violation of applicable law.  
+If you believe this occurred, contact **hello.lifeassistant@gmail.com** and we will review and take appropriate action.
+
+---
+
+## 13. Changes to this Policy
+
+We may update this Privacy Policy from time to time.  
+If changes are material, we will provide notice in the App and update the "Last Updated" date and policy version.
+
+---
+
+## 14. Contact
+
+**João Reis**  
+Portugal  
+**Email:** hello.lifeassistant@gmail.com
