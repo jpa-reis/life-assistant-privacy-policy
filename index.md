@@ -1,6 +1,6 @@
 # Privacy Policy for My Life Assistant
-Last Updated: 07 April 2026  
-Policy Version: 2026-04-07
+**Last Updated:** 15 April 2026  
+**Policy Version:** 2026-04-15
 
 ## 1. Who We Are (Data Controller)
 My Life Assistant is provided by João Reis ("Developer", "we", "us").  
@@ -57,7 +57,7 @@ Where this occurs, we rely on appropriate safeguards (such as Standard Contractu
 We keep personal data only as long as necessary for the purposes above:
 
 - **Account/profile/content data:** retained while your account is active.
-- **Deletion requests:** account data is deleted or anonymized within a reasonable period after verification, unless legal obligations require retention.
+- **Deletion requests (Pre-Alpha):** after confirming the request and verifying identity where needed, we aim to delete account data from live systems promptly. Backup systems may retain data until normal backup rotation completes.
 - **Technical/security records:** retained for limited periods required for security, debugging, and reliability.
 
 Some minimal records may be retained where legally required or necessary for dispute handling or security.
@@ -84,7 +84,8 @@ You also have the right to lodge a complaint with your local supervisory authori
 
 ## 11. Account Deletion and Data Requests
 - **In-App Deletion:** You can initiate permanent deletion of your account and associated data from within the App.
-- **Verification:** To prevent accidental or unauthorized actions, we may require identity verification before processing sensitive requests.
+- **Pre-Alpha Deletion Practice:** In this pre-alpha phase, once a deletion request is confirmed (and identity is verified where needed), we aim to remove associated personal data from live systems promptly.
+- **Backup Deletion Timeline:** Copies in backups are deleted through scheduled backup rotation and are not used for normal product operations.
 - **Retention Exceptions:** We may retain limited information where legally required or where we have a compelling legitimate interest (for example, fraud prevention or security).
 - **Data Access / Portability Requests:** During this pre-alpha phase, data access and portability requests are handled by email at hello.lifeassistant@gmail.com. In-app export tooling may be introduced in a future release.
 
