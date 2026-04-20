@@ -1,0 +1,5 @@
+title: My Life Assistant
+description: Privacy and legal information for My Life Assistant
+markdown: kramdown
+kramdown:
+  input: GFM

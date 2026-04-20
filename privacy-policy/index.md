@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Privacy Policy for My Life Assistant
 
 **Last Updated:** 15 April 2026  
